@@ -31,6 +31,15 @@ A program that helps you to write classes like talwind.css but it generates a cu
  ``` css
  cssr-b-1px_solid_black
  ```
-* `-` as negative will be`NEG`
-* Use `P` for decimal point (`.`).
-* `⚠ ` Add `IM` at the end of value to make it Important [[Not Recommended]]
+* `-` as negative will be`NEG`. eg;
+```css
+cssr-z-NEG6
+```
+* Use `P` for decimal point (`.`).eg;
+```css
+cssr-p-6P8
+```
+* `⚠ ` Add `IM` at the end of value to make it Important [[Not Recommended]] eg;
+```css
+cssr-p-6P8IM
+```
